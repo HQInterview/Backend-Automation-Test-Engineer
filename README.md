@@ -1,7 +1,7 @@
 # Backend Automation Test Engineer
 ===========
 
-This document contains description and requirements for Round #1 of interview for Backend Automation Test Engineer position.
+This document contains description and requirements for Round #2 of interview for Backend Automation Test Engineer position.
 
 ## Goal
 
